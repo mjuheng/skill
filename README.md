@@ -587,11 +587,7 @@ Latest commit: `4117154`
 
 ### Packages
 
-| Package | Description |
-| ------- | ----------- |
-| `clawhub-admin` | clawhub-admin package |
-| `clawhub` | CLI tool for managing skills |
-| `schema` | Shared API types and routes |
+No packages found.
 
 ### CLI Commands
 
